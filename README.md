@@ -1,2 +1,3 @@
 # TestColocviu1EIM
-model colocviu 1 eim
+Nicolae Ionut
+342C4
